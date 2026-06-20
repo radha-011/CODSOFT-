@@ -1,2 +1,16 @@
-# CODSOFT-
-Job Board Website 💼->A responsive web-based job board platform where users can explore and search for available job opportunities. This project is designed to provide a simple and user-friendly interface for browsing job listings with a clean layout and interactive features.
+1. Project Name
+Job Board Website
+
+2. About Project
+A responsive web-based job board platform where users can explore and search for available job opportunities with a clean and user-friendly interface.
+
+3. Technologies Used
+HTML, CSS, JavaScript
+
+4. Features
+-Responsive design
+-Job listings
+-Search functionality
+-Attractive UI
+
+Developed as part of CodSoft Internship
