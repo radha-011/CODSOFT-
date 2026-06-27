@@ -28,5 +28,5 @@ An interactive Quiz website that allows users to answer questions and test their
 HTML, CSS, JavaScript
 
 **#OUTPUT**
-<img width="1366" height="768" alt="Untitled and 12 more pages - Personal - Microsoft​ Edge 27-06-2026 19_10_17" src="https://github.com/user-attachments/assets/325896c4-1da6-42ff-a16e-7ef8655ab78a" />
+<img width="1366" height="768" alt="Online Quiz and 11 more pages - Personal - Microsoft​ Edge 27-06-2026 19_06_11" src="https://github.com/user-attachments/assets/72a4fc45-2749-4e5e-8bff-b10463fc765c" />
 
