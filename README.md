@@ -1,16 +1,31 @@
-1. Project Name
-Job Board Website
+# Task 1: Job Board
 
-2. About Project
-A responsive web-based job board platform where users can explore and search for available job opportunities with a clean and user-friendly interface.
+A simple Job Board website where users can explore and view available job opportunities.
 
-3. Technologies Used
+## Features
+- Job listings display
+- User-friendly interface
+- Easy navigation
+
+## Technologies
 HTML, CSS, JavaScript
 
-4. Features
--Responsive design
--Job listings
--Search functionality
--Attractive UI
+**#OUTPUT**
+<img width="1366" height="768" alt="Online Quiz and 11 more pages - Personal - Microsoft​ Edge 27-06-2026 19_06_11" src="https://github.com/user-attachments/assets/32bd9b69-d049-45c1-bb88-28ba12a9543f" />
 
-Developed as part of CodSoft Internship
+
+# Task 2: Quiz
+
+An interactive Quiz website that allows users to answer questions and test their knowledge.
+
+## Features
+- Multiple choice questions
+- Score tracking
+- Interactive design
+
+## Technologies
+HTML, CSS, JavaScript
+
+**#OUTPUT**
+<img width="1366" height="768" alt="Untitled and 12 more pages - Personal - Microsoft​ Edge 27-06-2026 19_10_06" src="https://github.com/user-attachments/assets/4e8df300-18f7-48fd-8c09-e265a0484d6d" />
+<img width="1366" height="768" alt="Untitled and 12 more pages - Personal - Microsoft​ Edge 27-06-2026 19_10_17" src="https://github.com/user-attachments/assets/fca416a3-d526-42a7-8224-6d29138a34c3" />
